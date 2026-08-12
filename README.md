@@ -1,16 +1,18 @@
-## Hi there 👋
+### Christopher Coffman 
+> *Technical Consultant • Strength & Conditioning Coach • Contemporary Choreographer • Semi-Pro Offensive Lineman*
 
-<!--
-**rndchris/rndchris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between rigorous physical discipline and practical software engineering. My work focuses on building fast, local-first tools, automating complex workflows, and designing systems that get out of the way so real work can happen.
 
-Here are some ideas to get you started:
+#### 🧠 The Stack & Systems
+* **Code:** Vanilla JavaScript, Express, PostgreSQL, EJS
+* **Infrastructure:** Linux (MX-Linux is my current favorite), Docker, Ollama (Local AI Pipelines)
+* **Physical & Creative:** NSCA-CSCS, contemporary/jazz funk choreography, offensive line mechanics
+* **Business Domains:** Master Data Management (PMDM,PIM), Disaster Recovery, Workflows and Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📂 Pinned Repositories
+* **`ask-shell`** *(Local LLM CLI Integration)* — A lightweight terminal companion that converts plain English into raw Linux commands.
+* **`volcano-bingo`** *(Interactive UI & State)* — Bingo for Volcano Movies.
+* **`orange-star`** *(Database Architecture)* — Turns meal planning into ordering from a restaurant menu.
+* **`okies`** *(Media API Integration)* — Voting on movies for movie night. Grabs movies from Jellyfin library.
+---
+⚡ *Software Philosophy: Build software that works, runs locally, and solves genuine problems.*
