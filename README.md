@@ -1,4 +1,3 @@
-### Christopher Coffman 
 > *Technical Consultant • Strength & Conditioning Coach • Contemporary Choreographer • Semi-Pro Offensive Lineman*
 
 I bridge the gap between rigorous physical discipline and practical software engineering. My work focuses on building fast, local-first tools, automating complex workflows, and designing systems that get out of the way so real work can happen.
